@@ -1,4 +1,4 @@
-# Data-Driven-Research-Fundamentals
+# Data Driven Research Fundamentals
 
 ## Course Description
 
