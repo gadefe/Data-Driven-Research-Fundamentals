@@ -1,0 +1,2 @@
+# Data-Driven-Research-Fundamentals
+Given the need to solve organizational problems using analytics, the data professional needs to find solutions to problems that might not exist in published literature. APEC recommends that a data professional would need an introduction to the concepts and frameworks of doing research. This course would address that need through an overview of research for data science.
